@@ -1,0 +1,10 @@
+[project]
+name = "malombe-project"
+version = "0.1.0"
+description = "HIFMEA machine learning project"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=2.2.4",
+    "polars>=1.27.1",
+    "scikit-learn>=1.6.1",
+]
